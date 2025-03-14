@@ -1,0 +1,5 @@
+langgraph
+yfinance
+matplotlib
+flask
+flask_cors
